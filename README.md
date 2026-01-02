@@ -1,2 +1,2 @@
 # vscode-settings
-VS Code settings and extensions clean
+My VSCode settings and extensions clean setup
