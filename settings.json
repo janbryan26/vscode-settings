@@ -1,7 +1,11 @@
 {
-    "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Palenight Theme",
-    "workbench.settings.applyToAllProfiles": [
-        
-    ]
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Palenight Theme",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  
+  "workbench.settings.applyToAllProfiles": [],
+  "workbench.externalBrowser": "chome",
+  "editor.fontSize": 14,
+
 }
